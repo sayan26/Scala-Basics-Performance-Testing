@@ -1,3 +1,18 @@
+/*
+Welcome to Scala-Basics-Performance-Testing Repository. This repository contains all the basics
+of Scala programming language which would be helpful to understand Gatling scripts developed with
+Scala.
+
+Application: Internet Bill Generator
+Scenario:
+1. User will select the plan of his/her preference
+2. As per the plan the rate will be computed.
+3. On the basis of rate discount rate will be applicable.
+4. The final bill will be displayed to the user.
+
+For any queries, write me a mail to sayan.bhattacharya26@outlook.com
+*/
+
 package InternetBill
 
 class generateBill (planName: String) {
